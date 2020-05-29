@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OneTimeTeleport:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OneTimeTeleport_jar</output-path>
+    <root id="archive" name="OneTimeTeleport.jar">
+      <element id="module-output" name="OneTimeTeleport" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.0/HikariCP-3.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/vg/civcraft/mc/civmodcore/CivModCore/1.6.2/CivModCore-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

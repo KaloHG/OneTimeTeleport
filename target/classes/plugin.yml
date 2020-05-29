@@ -1,0 +1,10 @@
+name: OneTimeTeleport
+
+version: 1.0-SNAPSHOT
+
+main: com.civlegacy.OneTimeTeleportMain #Main Class.
+
+commands:
+  ott:
+    description: Permits you to teleport once after you first join.
+    usage: /ott

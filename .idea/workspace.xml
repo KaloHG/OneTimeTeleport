@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OneTimeTeleport:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bb6585d-f6d8-480d-b862-2486e9ebb498" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cViHXC9q5Xr0wqKHsXUMQLsJXQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb6585d-f6d8-480d-b862-2486e9ebb498" name="Default Changelist" comment="" />
+      <created>1590620073273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590620073273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="9" key="#Project_Structure" timestamp="1590777662736">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="368" y="9" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1590777662736" />
+    <state x="552" y="184" key="#Project_Structure/0.0.1920.1050/1920.0.1200.1570@0.0.1920.1050" timestamp="1590620200928" />
+    <state x="635" y="240" key="FileChooserDialogImpl" timestamp="1590620100196">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="635" y="240" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1200.1570@0.0.1920.1050" timestamp="1590620100196" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1590779422310">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1590779422310" />
+    <state x="440" y="100" key="SettingsEditor/0.0.1920.1050/1920.0.1200.1570@0.0.1920.1050" timestamp="1590620510997" />
+    <state x="776" y="304" key="chooseDestDirectoryDialog" timestamp="1590620916606">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="776" y="304" key="chooseDestDirectoryDialog/0.0.1920.1050/1920.0.1200.1570@0.0.1920.1050" timestamp="1590620916606" />
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1590635960802">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1200.1570@0.0.1920.1050" timestamp="1590635960802" />
+  </component>
+</project>
